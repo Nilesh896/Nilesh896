@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about software development and have
 I'm always open to collaborating on interesting projects or discussing new ideas. You can reach me via:
 
 - **Email**: (ny069656@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/nilesh-yadav896]
+- **LinkedIn**: [https://www.linkedin.com/in/nileshyadav896]
 
 Looking forward to connecting with you!
 
