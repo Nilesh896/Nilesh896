@@ -1,36 +1,33 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<!-- Banner -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nilesh%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<h1 align="center">
-  Hi 👋, I'm Nilesh Yadav
-</h1>
+<h1 align="center">Hi 👋, I'm Nilesh Yadav</h1>
 
-<h3 align="center">Full Stack Developer | Web Development | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Web Developer | AI Enthusiast</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Developer;Python+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Developer;Python+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
 - 🎓 Computer Science Student  
 - 💻 Passionate about **Software Development**  
-- 🚀 Building **Real World Projects**  
-- 🌱 Currently learning **Advanced Web Development & AI**  
-- 🤝 Open to **Collaboration & Internship Opportunities**
-
-<br>
+- 🚀 Building **real-world applications**  
+- 🌱 Currently learning **AI & advanced web development**  
+- 🤝 Open to **collaboration and internships**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:ny069656@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -52,31 +49,31 @@
 
 ### 💻 Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,php,javascript,c" />
 </p>
 
 ### 🌐 Web Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
 ### ⚙ Frameworks
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=django,spring,bootstrap" />
 </p>
 
 ### 🗄 Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 ### 🧰 Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,aws,vscode,postman,figma" />
 </p>
 
@@ -94,10 +91,22 @@
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nilesh896&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh896&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -105,7 +114,9 @@
 # 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
@@ -115,7 +126,7 @@
 - 🌐 Full Stack Web Development  
 - 🤖 AI Based Applications  
 - 📈 Problem Solving & DSA  
-- 💡 Building Real World Projects  
+- 💡 Building impactful projects  
 
 ---
 
@@ -127,4 +138,6 @@
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ If you like my work, consider giving a **star ⭐ to my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
