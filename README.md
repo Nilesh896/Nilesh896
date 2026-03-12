@@ -1,19 +1,20 @@
-<!-- Banner -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nilesh%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- HEADER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nilesh%20Yadav&fontAlign=50&fontAlignY=40&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Web%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=20"/>
 
 <h1 align="center">Hi 👋, I'm Nilesh Yadav</h1>
 
-<h3 align="center">Full Stack Developer | Web Developer | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Web Development | AI Enthusiast</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Developer;Python+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Web+Developer;Python+Developer;Building+Real+World+Projects;Always+Learning+New+Things"/>
 
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
@@ -21,7 +22,7 @@
 - 💻 Passionate about **Software Development**  
 - 🚀 Building **real-world applications**  
 - 🌱 Currently learning **AI & advanced web development**  
-- 🤝 Open to **collaboration and internships**
+- 🤝 Open to **collaboration & internships**
 
 ---
 
@@ -140,4 +141,8 @@
 
 ⭐ If you like my work, consider giving a **star ⭐ to my repositories!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+---
+
+<!-- FOOTER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
