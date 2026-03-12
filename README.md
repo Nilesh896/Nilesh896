@@ -102,11 +102,7 @@
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nilesh896&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Nilesh896&theme=radical&margin-w=15&margin-h=15&no-frame=true"/>
 
 ---
 
