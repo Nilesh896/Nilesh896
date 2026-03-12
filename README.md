@@ -1,14 +1,13 @@
 <!-- HEADER -->
 
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
 <h1 align="center">Hi 👋, I'm Nilesh Yadav</h1>
 
 <h3 align="center">Full Stack Developer | Web Development | AI Enthusiast</h3>
 
 <p align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Web+Developer;Python+Developer;Building+Real+World+Projects;Always+Learning+New+Things"/>
-
 </p>
 
 ---
@@ -91,11 +90,21 @@
 
 ---
 
+# 📊 Top Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh896&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nilesh896&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nilesh896&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -142,16 +151,8 @@
 
 ---
 
-<!-- FOOTER -->
-
-<!-- FOOTER -->
-
-<!-- FOOTER -->
-
-<!-- FOOTER -->
+# 👨‍💻 Keep Coding
 
 <p align="center">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-
 </p>
