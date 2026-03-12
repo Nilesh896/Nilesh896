@@ -100,15 +100,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nilesh896&theme=algolia&column=4&margin-w=10&margin-h=10&no-frame=true&no-bg=true"/>
-
-</p>
----
-
 # 📈 Contribution Graph
 
 <p align="center">
