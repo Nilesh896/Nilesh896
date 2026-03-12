@@ -1,7 +1,6 @@
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nilesh%20Yadav&fontAlign=50&fontAlignY=40&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Web%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=20"/>
-
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 <h1 align="center">Hi 👋, I'm Nilesh Yadav</h1>
 
 <h3 align="center">Full Stack Developer | Web Development | AI Enthusiast</h3>
